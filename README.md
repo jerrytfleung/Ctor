@@ -1,7 +1,7 @@
 # Ctor
 () vs {} when creating objects
 
-__Console output__
+__*Console output*__
 ```
 Default ctor!
 Parameterized ctor!
