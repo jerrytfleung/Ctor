@@ -2,7 +2,7 @@
 #include <initializer_list>
 using namespace std;
 
-template<typename T>
+template<class T>
 class object {
  public:
   object() { cout << "Default ctor!" << endl; }
